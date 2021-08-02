@@ -6,7 +6,7 @@
 此项目已开启 github page, 将你的浏览器主页设置为 https://tylinger.github.io/qingmu/ 即可.
 若需本地安装, 请按照下面的步骤操作:
         
-        克隆本仓库
+        git clone https://github.com/TYlinger/qingmu-start.git
         cd qinmu-start/
         sudo apt-get install npm
         运行 npm install && npm run build
